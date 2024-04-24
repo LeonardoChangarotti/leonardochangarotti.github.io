@@ -1,0 +1,33 @@
+body{
+    background-color:aquamarine;
+}
+
+header, footer{
+    text-align: center;
+}
+
+
+
+header {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+  }
+
+  .barraNavegacion{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+  }
+
+.nav{
+    background-color: grey;
+  }
+  footer{
+    background-color: grey;
+  }
+  .proyecto{
+    background-color: grey;
+  }
